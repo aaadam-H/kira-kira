@@ -1,0 +1,19 @@
+{
+  "appId": "com.contoh.kirakira",
+  "appName": "Kira-Kira",
+  "webDir": "dist",
+  "backgroundColor": "#eaf6ff",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 700,
+      "launchAutoHide": true,
+      "backgroundColor": "#eaf6ff",
+      "showSpinner": false
+    },
+    "SystemBars": {
+      "insetsHandling": "native",
+      "initialViewportFitValueHint": "cover",
+      "style": "LIGHT"
+    }
+  }
+}
